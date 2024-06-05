@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment-6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_welcome_title">Welcome !!</string>
+    <string name="WelcomeText">Welcome !!</string>
+    <string name="Start">Start</string>
+    <string name="UserInfo">User Info</string>
+    <string name="Name">Name :</string>
+    <string name="EnterName">Enter Name</string>
+    <string name="Email">Email</string>
+    <string name="EnterEmail">Enter Email</string>
+    <string name="Age">Age</string>
+    <string name="EnterAge">Enter Age</string>
+    <string name="Country">Country:</string>
+    <string name="CountryValue">N/A</string>
+    <string name="CountryButton">Select</string>
+    <string name="CountryButtonEnter">Select</string>
+    <string name="DoB">DoB:</string>
+    <string name="DOBValue">N/A</string>
+    <string name="DOBButton">Select</string>
+    <string name="Submit">Submit</string>
+    <string name="DateOfBirth">Date Of Birth</string>
+    <string name="SelectDOB">Select Your Date Of Birth</string>
+    <string name="Cancel">Cancel</string>
+</resources>
